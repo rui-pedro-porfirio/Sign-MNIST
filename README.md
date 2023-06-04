@@ -1,8 +1,8 @@
-# SIGN MINST Project
+# SIGN MNIST Project
 
-The SIGN MINST dataset is a collection of images of hand gestures representing numbers in sign language. It is a variation of the popular MNIST dataset, which is a collection of handwritten digits. The SIGN MINST dataset consists of 27,455 grayscale images of size 28x28 pixels, each representing a sign language gesture for a number from 0 to 24. 
+The SIGN MNIST dataset is a collection of images of hand gestures representing numbers in sign language. It is a variation of the popular MNIST dataset, which is a collection of handwritten digits. The SIGN MNIST dataset consists of 27,455 grayscale images of size 28x28 pixels, each representing a sign language gesture for a number from 0 to 24. 
 
-The SIGN MINST dataset is a valuable resource for researchers working on computer vision and machine learning applications related to sign language recognition.
+The SIGN MNIST dataset is a valuable resource for researchers working on computer vision and machine learning applications related to sign language recognition.
 
 **Task**: Supervised Learning Classification
 
